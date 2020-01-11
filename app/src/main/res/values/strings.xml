@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="CLC">Car Loan Calculator</string>
+    <string name="CP">Car price</string>
+    <string name="DPA">Down payment amount</string>
+    <string name="LP">Loan period</string>
+    <string name="IR">Interest rate</string>
+    <string name="calculate">Calculate</string>
+</resources>
